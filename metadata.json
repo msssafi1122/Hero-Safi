@@ -1,0 +1,6 @@
+{
+  "name": "Floating App",
+  "description": "Floating multi-tool widget containing AI chat, calculator, notes, in-app screenshots, and a secure photo vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
